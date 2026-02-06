@@ -25,3 +25,5 @@ Put **`cid.csv`** in the project directory. It must be a CSV with these columns 
 If the file is missing or the format is wrong, the app will show an error when it starts.
 
 This application has been developed for internal use by De Anza Evaluations.
+
+<img width="1007" height="683" alt="image" src="https://github.com/user-attachments/assets/69823608-b10f-4c3b-81c2-50b02ebad150" />
