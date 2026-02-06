@@ -27,3 +27,6 @@ If the file is missing or the format is wrong, the app will show an error when i
 This application has been developed for internal use by De Anza Evaluations.
 
 <img width="1007" height="683" alt="image" src="https://github.com/user-attachments/assets/69823608-b10f-4c3b-81c2-50b02ebad150" />
+
+
+Data provided by the CCC on the [C-ID website](https://data-c-idsystem.org/approved-courses).
