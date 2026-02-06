@@ -1,0 +1,16 @@
+[project]
+name = "eval-gui"
+version = "0.1.0"
+description = "De Anza College C-ID course equivalency lookup"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dearpygui>=1.11.0",
+    "polars[rtcompat]>=1.0.0",
+]
+
+[project.scripts]
+course-equivalency = "course_equivalency_app:main"
+
+[tool.uv]
+dev-dependencies = []
