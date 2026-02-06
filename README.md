@@ -9,7 +9,7 @@ Requires [UV](https://docs.astral.sh/uv/) and a file named **`cid.csv`** in the 
 ```bash
 cd eval_gui
 uv sync
-uv run python course_equivalency_app_dpg.py
+uv run python app.py
 ```
 
 ## Data
